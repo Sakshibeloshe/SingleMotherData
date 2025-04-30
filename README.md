@@ -2,6 +2,7 @@
 
 # 💼 Finance Toolkit for Single Mothers
 
+This was created as a trial for a hackathon. Our problem statement was for finace managing for single mothers. The apps name would have been **MOMentum**.
 This folder contains two Python-based desktop apps designed to support single mothers in managing finances and estimating monthly savings. The tools are built with **Tkinter** and basic machine learning integration (for prediction).
 
 ---
